@@ -1,0 +1,7 @@
+file =  open("goal.txt","w+")
+file.write("AI Engineer\n")
+file.write("AI Surveillance Expert\n")
+file.seek(0)
+data = file.read()
+print(data)
+file.close()
