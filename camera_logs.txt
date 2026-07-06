@@ -1,0 +1,9 @@
+cd120|Tea Point|Function|2:00PM
+cd232|Hall|Marriage|3:00PM
+cd234|Dinner|Marriage|6:00AM
+cd120|Tea Point|Function|2:00PM
+cd232|Hall|Marriage|3:00PM
+cd234|Dinner|Marriage|6:00AM
+cd120|Tea Point|Function|2:00PM
+cd232|Hall|Marriage|3:00PM
+cd234|Dinner|Marriage|6:00AM
