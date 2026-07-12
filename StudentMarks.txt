@@ -1,0 +1,27 @@
+Hemanth    |6624      |97
+Ravi    |6625      |89
+Ramu    |6626      |79
+Hemanth    |6624      |97
+Ravi    |6625      |89
+Ramu    |6626      |79
+Hemanth    |6624      |97
+Ravi    |6625      |89
+Ramu    |6626      |79
+Hemanth    |6624      |97
+Ravi    |6625      |89
+Ramu    |6626      |79
+Hemanth    |6624      |97
+Ravi    |6625      |89
+Ramu    |6626      |79
+Hemanth  
+ Roll No : 6624 
+  Marks : 97
+Ravi  
+ Roll No : 6625 
+  Marks : 89
+Ramu  
+ Roll No : 6626 
+  Marks : 79
+Ramesh  
+ Roll No : 6634 
+  Marks : 88

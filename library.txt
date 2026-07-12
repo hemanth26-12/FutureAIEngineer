@@ -1,0 +1,2 @@
+101|Python|Mosh|500
+102|AI Basics|James|450
