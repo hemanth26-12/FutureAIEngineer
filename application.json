@@ -1,0 +1,14 @@
+[
+    {
+        "Company": "Amazon",
+        "Role": "HR",
+        "Status": "Applied",
+        "Experience": 3
+    },
+    {
+        "Company": "Flipkart",
+        "Role": "tester",
+        "Status": "Not Applied",
+        "Experience": 3
+    }
+]

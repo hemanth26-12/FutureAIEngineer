@@ -1,0 +1,48 @@
+Company: Amazon
+Role: HR
+Stipend: 15000
+Company: Amazon
+Role: HR
+Stipend: 15000
+Status: Applied
+
+Company: Flipkart
+Role: HR
+Stipend: 10000
+Status: Not Applied
+
+Company: Wipro
+Role: Manager
+Stipend: 15000
+Status: Progressing
+
+Company: Amazon
+Role: HR
+Stipend: 15000
+Status: Applied
+
+Company: Flipkart
+Role: HR
+Stipend: 10000
+Status: Not Applied
+
+Company: Wipro
+Role: Manager
+Stipend: 15000
+Status: Progressing
+
+Company: Amazon
+Role: HR
+Stipend: 15000
+Status: Applied
+
+Company: Flipkart
+Role: HR
+Stipend: 10000
+Status: Not Applied
+
+Company: Wipro
+Role: Manager
+Stipend: 15000
+Status: Progressing
+

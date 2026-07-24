@@ -1,0 +1,26 @@
+[
+    {
+        "ID": "101D",
+        "Name": "Hemanth",
+        "Age": 19,
+        "Disease": "Sighness",
+        "Doctor": "ramarao",
+        "Bill": "5000"
+    },
+    {
+        "ID": "102D",
+        "Name": "Harry",
+        "Age": 20,
+        "Disease": "Cough",
+        "Doctor": "ramarao",
+        "Bill": "2000/-"
+    },
+    {
+        "ID": "103D",
+        "Name": "Minna",
+        "Age": 26,
+        "Disease": "Sighness",
+        "Doctor": "ramu",
+        "Bill": "4000/-"
+    }
+]

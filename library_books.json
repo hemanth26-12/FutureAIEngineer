@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Bhagvath Gita",
+    "author": "Valmiki",
+    "year": 1000,
+    "isbn": "970332678908"
+  },
+  {
+    "title": "rug ved",
+    "author": "veda vayasa",
+    "year": 500,
+    "isbn": "980665346739"
+  },
+  {
+    "title": "sama ved",
+    "author": "veda vayasa",
+    "year": 600,
+    "isbn": "989056734567"
+  }
+]

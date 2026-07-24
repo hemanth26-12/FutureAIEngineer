@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2026-07-20 10:00:00",
+    "level": "HIGH",
+    "source": "Firewall blocked attack",
+    "message": "User login successful",
+    "ip": "192.168.1.10"
+  },
+  {
+    "timestamp": "2026-07-20 10:05:00", 
+    "level":  "MEDIUM",
+    "source": "Suspicious login",
+    "message": "Multiple failed login attempts detected",
+    "ip": "203.0.113.44"
+  },
+  {
+    "timestamp": "2026-07-20 10:10:00", 
+    "level": "LOW",
+    "source":  "User logged in",
+    "message": "Database connection timeout",
+    "ip": "192.168.1.12"
+  }
+]
